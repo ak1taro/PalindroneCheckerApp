@@ -16,7 +16,7 @@
  * No palindrome logic is implemented yet.
  * The goal is to establish a clear startup flow.
  *
- * @author ak1taro
+ * @author param
  * @version 1.0
  */
 
