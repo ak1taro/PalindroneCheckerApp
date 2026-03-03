@@ -27,7 +27,7 @@ public class UseCase5PalindromeCheckerApp {
     /**
      * Application entry point for UC5.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
