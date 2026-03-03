@@ -24,7 +24,7 @@ public class UC11PalindromeCheckerApp {
     /**
      * Application entry point for UC11.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
