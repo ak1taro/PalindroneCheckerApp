@@ -25,7 +25,7 @@ public class UC3PalindromeCheckerApp {
     /**
      * Application entry point for UC3.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
         String input = "radar";
