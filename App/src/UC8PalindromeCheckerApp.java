@@ -1,6 +1,6 @@
 /**
  * ================================================================
- * MAIN CLASS - UseCase8PalindromeCheckerApp
+ * MAIN CLASS - UC8PalindromeCheckerApp
  * ================================================================
  *
  * Use Case 8: Linked List Based Palindrome Checker
@@ -39,7 +39,7 @@ public class UseCase8PalindromeCheckerApp {
 
     /**
      * Application entry point for UC8.
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
