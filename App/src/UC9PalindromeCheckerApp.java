@@ -1,6 +1,6 @@
 /**
  * =====================================================
- * MAIN CLASS - UseCase9RecursivePalindrome
+ * MAIN CLASS - UC9RecursivePalindrome
  * =====================================================
  *
  * Use Case 9: Recursive Palindrome Checker
@@ -29,7 +29,7 @@ public class UC9PalindromeCheckerApp {
     /**
      * Application entry point for UCP.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
