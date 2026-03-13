@@ -1,6 +1,6 @@
 /**
  * ============================================================
- * MAIN CLASS - UseCase12PalindromeCheckerApp
+ * MAIN CLASS - UCPalindromeCheckerApp
  * ============================================================
  *
  * Use Case 12: Strategy Pattern for Palindrome Algorithms
