@@ -1,6 +1,6 @@
 /**
  * ================================================================
- * MAIN CLASS - UseCase7PalindromeCheckerApp
+ * MAIN CLASS - UC7PalindromeCheckerApp
  * ================================================================
  *
  * Use Case 7: Deque Based Optimized Palindrome Checker
