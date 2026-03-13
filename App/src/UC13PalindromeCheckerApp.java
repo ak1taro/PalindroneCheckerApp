@@ -1,6 +1,6 @@
 /**
  * ============================================================
- * MAIN CLASS - UseCase13PalindromeCheckerApp
+ * MAIN CLASS - UC13PalindromeCheckerApp
  * ============================================================
  *
  * Use Case 13: Performance Comparison
