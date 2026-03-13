@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * ================================================================
- * MAIN CLASS - UseCase6PalindromeCheckerApp
+ * MAIN CLASS - UC6PalindromeCheckerApp
  * ================================================================
  *
  * Use Case 6: Queue + Stack Fairness Check
