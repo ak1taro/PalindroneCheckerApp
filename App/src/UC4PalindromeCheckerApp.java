@@ -1,6 +1,6 @@
 /**
  * ===============================================================
- * MAIN CLASS - UseCase4PalindromeCheckerApp
+ * MAIN CLASS - UCe4PalindromeCheckerApp
  * ===============================================================
  *
  * Use Case 4: Character Array Based Validation
@@ -26,7 +26,7 @@ public class UC4PalindromeCheckerApp {
     /**
      * Application entry point for UC4.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
