@@ -1,5 +1,5 @@
 /**
- * MAIN CLASS - UseCase11PalindromeCheckerApp
+ * MAIN CLASS - UC11PalindromeCheckerApp
  *
  * Use Case 11: Object-Oriented Palindrome Service
  *
@@ -24,7 +24,7 @@ public class UC11PalindromeCheckerApp {
     /**
      * Application entry point for UC11.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
@@ -55,12 +55,6 @@ class PalindromeService {
     /**
      * Checks whether the input string is a palindrome.
      *
-     * Hint logic (two-pointer technique inspired by the document):
-     * - Initialize pointers: start = 0, end = input.length() - 1
-     * - Move pointers towards the center while characters match
-     * - If mismatch occurs, return false
-     * - If loop finishes, return true
-     *
      * @param input Input string
      * @return true if palindrome, false otherwise
      */
@@ -70,5 +64,22 @@ class PalindromeService {
             return false;
         }
 
-        // Normalize input: remove spaces and make case-insensitive
-        String normalized = input.replaceAll("\\s+",
+        // Normalize input: remove spaces and convert to lowercase
+        String normalized = input.replaceAll("\\s+", "").toLowerCase();
+
+        // Initialize pointers
+        int start = 0;
+        int end = normalized.length() - 1;
+
+        // Compare characters moving inward
+        while (start < end) {
+            if (normalized.charAt(start) != normalized.charAt(end)) {
+                return false;
+            }
+            start++;
+            end--;
+        }
+
+        return true;
+    }
+}
