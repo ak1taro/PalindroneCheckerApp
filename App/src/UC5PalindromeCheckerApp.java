@@ -1,6 +1,6 @@
 /**
  * ============================================================
- * MAIN CLASS – UseCase5PalindromeCheckerApp
+ * MAIN CLASS – UC5PalindromeCheckerApp
  * ============================================================
  *
  * Use Case 5: Stack Based Palindrome Checker
@@ -27,7 +27,7 @@ public class UC5PalindromeCheckerApp {
     /**
      * Application entry point for UC5.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
 
