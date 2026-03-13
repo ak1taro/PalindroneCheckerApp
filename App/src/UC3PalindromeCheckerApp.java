@@ -1,6 +1,6 @@
 /**
  * =============================================================================
- * MAIN CLASS - UseCase3PalindromeCheckerApp
+ * MAIN CLASS - UC3PalindromeCheckerApp
  * =============================================================================
  * Use Case 3: Reverse String Based Palindrome Check
  *
@@ -17,7 +17,7 @@
  *
  * This introduces transformation-based validation.
  *
- * @author ak1taro
+ * @author param
  * @version 3.0
  */
 public class UC3PalindromeCheckerApp {
@@ -25,7 +25,7 @@ public class UC3PalindromeCheckerApp {
     /**
      * Application entry point for UC3.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
         String input = "radar";
