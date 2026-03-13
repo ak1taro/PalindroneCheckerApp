@@ -16,7 +16,7 @@
  * No palindrome logic is implemented yet.
  * The goal is to establish a clear startup flow.
  *
- * @author ak1taro
+ * @author param
  * @version 1.0
  */
 
@@ -27,7 +27,7 @@ public class UC1PalindromeCheckerApp {
      * This is the first method executed by the JVM
      * when the program starts.
      *
-     * @ak1taro args Command-line arguments
+     * @param args Command-line arguments
      */
     public static void main(String[] args) {
         // Displaying the welcome message and application details
